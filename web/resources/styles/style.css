@@ -1,0 +1,5 @@
+/* forma ko'rsatgich matini */
+label.control-label[for="application-verifycode"],
+.help-block {
+    color: white;
+}
